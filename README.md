@@ -31,20 +31,16 @@ Aplicação web para consulta de preços de veículos baseada na Tabela FIPE. De
 git clone https://github.com/seu-usuario/consulta-fipe.git
 cd consulta-fipe
 ```
-2. Instale as dependências:
-```bash
-npm install
-```
-3. Inicie o servidor de desenvolvimento:
+2. Inicie o servidor de desenvolvimento:
 ```bash
 npm run dev
 ```
-4. Acesse: http://localhost:3000
+3. Acesse: http://localhost:3000
 
 ## Autor
 
-Desenvolvido por Pamela Andrade    
-linkedin.com/in/seuusuario     
-github.com/seu-usuario      
+Desenvolvido por Paloma Andrade    
+[linkedin.com/in/palomandrade ](https://www.linkedin.com/in/palomandrade/)    
+[github.com/Pahandra  ](https://github.com/Pahandra)    
     
 
