@@ -29,9 +29,11 @@ export default function RootLayout({
       >
         <div className="flex flex-col min-h-screen">
           {/* Cabeçalho */}
-          <header className="bg-blue-600 text-white py-4 shadow-md">
+          <header className="bg-red-700 text-white py-4 shadow-md">
             <div className="max-w-6xl mx-auto px-4 text-center">
-              <h1 className="text-2xl font-bold">🚗 Consulta Tabela FIPE</h1>
+              <h1 className="text-2xl font-bold">
+                🚗 <span className="text-yellow-400">Consulta Tabela FIPE</span>
+              </h1>
             </div>
           </header>
 
@@ -41,7 +43,7 @@ export default function RootLayout({
           </main>
 
           {/* Rodapé */}
-          <footer className="bg-blue-600 text-white py-4">
+          <footer className="bg-gray-800 text-white py-4">
             <div className="text-center text-sm">
               Desenvolvido por Paloma Andrade © 2025
             </div>
